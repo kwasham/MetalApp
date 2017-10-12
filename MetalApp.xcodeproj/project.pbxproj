@@ -22,6 +22,7 @@
 		16D449AC1F8FF71800EBECEF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		16D449AF1F8FF71800EBECEF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		16D449B11F8FF71800EBECEF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		16D449B71F8FF73E00EBECEF /* metallica1986.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = metallica1986.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +59,7 @@
 				16D449A71F8FF71800EBECEF /* ViewController.swift */,
 				16D449A91F8FF71800EBECEF /* Main.storyboard */,
 				16D449AC1F8FF71800EBECEF /* Assets.xcassets */,
+				16D449B71F8FF73E00EBECEF /* metallica1986.jpg */,
 				16D449AE1F8FF71800EBECEF /* LaunchScreen.storyboard */,
 				16D449B11F8FF71800EBECEF /* Info.plist */,
 			);
